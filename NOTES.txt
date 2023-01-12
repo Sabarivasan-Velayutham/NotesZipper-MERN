@@ -1,0 +1,9 @@
+--> First setup node server and express js 
+1) give npm init and change index.js to server.js 
+2) install express js 
+3) put server file in backend folder and import the express module 
+4) no need to run the server with long command , change "scripts:start" tag of package.json to "nodemon backend/server.js"
+    and run npm start
+
+--> Redux , React app (Frontend folder)
+1) create react app 
